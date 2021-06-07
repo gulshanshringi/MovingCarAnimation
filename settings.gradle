@@ -1,2 +1,3 @@
 rootProject.name = "MovingCarAnimation"
 include ':app'
+include ':MovingCarAnimation'
