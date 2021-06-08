@@ -1,3 +1,3 @@
 rootProject.name = "MovingCarAnimation"
 include ':app'
-include ':movingCarAnimation'
+include ':MapsUtils-Android'
